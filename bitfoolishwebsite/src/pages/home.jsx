@@ -21,6 +21,7 @@ export function Home() {
                     <li>Rock-Climbing</li>
                     <li>Genealogy </li>
                     <li>Learning Norwegian</li>
+                    <li>Volunteering</li>
                 </ul>
             </p>
         </div>
